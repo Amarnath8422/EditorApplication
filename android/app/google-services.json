@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "779642596729",
+    "firebase_url": "https://appedit-b15c2-default-rtdb.firebaseio.com",
+    "project_id": "appedit-b15c2",
+    "storage_bucket": "appedit-b15c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779642596729:android:19d8621bda26b576ad53a8",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2zXUkgyJJkZz2pY4VJSAtICkdqAaXKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
